@@ -10,4 +10,4 @@ Grades
 | Assignment 4   |  100  |
 | Assignment 5   |  100  |
 | Midterm        |   90  |
-| Final          |  ???  |
+| Final          |  undeclared  |
